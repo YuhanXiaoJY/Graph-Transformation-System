@@ -1,4 +1,4 @@
-﻿﻿﻿﻿# Graph Transformation System
+# Graph Transformation System
 
 **小组成员及分工**：
 
